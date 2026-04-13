@@ -10,5 +10,5 @@ Hi! This is Aromia~
 </div>
 
 <div>
-  <a href="https://git.io/streak-stats"><img alt="Aromia's GitHub Streak" src="https://streak-stats.demolab.com?user=arom1a&theme=rose-pine&hide_border=true&card_height=170"></a>
+  <a href="https://git.io/streak-stats"><img alt="Aromia's GitHub Streak" src="https://streak-stats.demolab.com?user=arom1a&theme=rose-pine&hide_border=true&card_height=170&mode=weekly"></a>
 </div>
